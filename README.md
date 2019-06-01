@@ -1,0 +1,10 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+adversarial-matching
+====================
+
+This is the source code accompanying the paper
+
+Xiao Hui Tai, Kyle Soska and Nicolas Christin. Adversarial Matching of Dark Net Market Vendor Accounts. 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2019.
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
